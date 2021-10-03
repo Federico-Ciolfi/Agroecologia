@@ -1,4 +1,4 @@
-# Agroecologia
+# Agroecología
 
 Para poder acceder a los archivos recomendamos descargar la carpeta. Para ello:
 1. Pulse el botón verde "Code" que se encuentra en la esquina superior derecha y seleccione "Download ZIP".
